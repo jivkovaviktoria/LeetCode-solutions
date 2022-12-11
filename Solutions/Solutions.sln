@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWordsWIthGivenPrefix", "CountWordsWIthGivenPrefix\CountWordsWIthGivenPrefix.csproj", "{8804D668-45DA-49C5-9FEC-76C701E214B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheHighestAltitude", "FindTheHighestAltitude\FindTheHighestAltitude.csproj", "{7F8CA674-5CC8-4656-86EC-C349F7ABFF3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8804D668-45DA-49C5-9FEC-76C701E214B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8804D668-45DA-49C5-9FEC-76C701E214B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8804D668-45DA-49C5-9FEC-76C701E214B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8CA674-5CC8-4656-86EC-C349F7ABFF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8CA674-5CC8-4656-86EC-C349F7ABFF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8CA674-5CC8-4656-86EC-C349F7ABFF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8CA674-5CC8-4656-86EC-C349F7ABFF3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
