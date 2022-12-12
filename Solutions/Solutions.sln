@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSumII", "PathSumII\Path
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqrtX", "SqrtX\SqrtX.csproj", "{6F62CA7A-3802-4026-A02D-B9F1697F3CB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{D3C46312-E3AB-478E-B7A6-68A37A9F0B2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{6F62CA7A-3802-4026-A02D-B9F1697F3CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F62CA7A-3802-4026-A02D-B9F1697F3CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F62CA7A-3802-4026-A02D-B9F1697F3CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C46312-E3AB-478E-B7A6-68A37A9F0B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C46312-E3AB-478E-B7A6-68A37A9F0B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C46312-E3AB-478E-B7A6-68A37A9F0B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C46312-E3AB-478E-B7A6-68A37A9F0B2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
