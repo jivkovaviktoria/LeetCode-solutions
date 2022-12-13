@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSumOf1dArray", "RunningSumOf1dArray\RunningSumOf1dArray.csproj", "{A1EB902B-CA5E-4197-A3EB-C2F4EA7178F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{EB0D6F80-6B1D-4984-93C8-C96DF228CE96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{A1EB902B-CA5E-4197-A3EB-C2F4EA7178F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1EB902B-CA5E-4197-A3EB-C2F4EA7178F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1EB902B-CA5E-4197-A3EB-C2F4EA7178F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0D6F80-6B1D-4984-93C8-C96DF228CE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0D6F80-6B1D-4984-93C8-C96DF228CE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0D6F80-6B1D-4984-93C8-C96DF228CE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0D6F80-6B1D-4984-93C8-C96DF228CE96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
