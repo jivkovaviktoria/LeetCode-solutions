@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageSalaryExcludingTheMinimumAndMaximumSalary", "AverageSalaryExcludingTheMinimumAndMaximumSalary\AverageSalaryExcludingTheMinimumAndMaximumSalary.csproj", "{6D00EA93-88E6-4C94-97B6-B729AA0737B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumValueOfAStringInArray", "MaximumValueOfAStringInArray\MaximumValueOfAStringInArray.csproj", "{CF255A77-7A42-45B1-A643-1037063977DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{6D00EA93-88E6-4C94-97B6-B729AA0737B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D00EA93-88E6-4C94-97B6-B729AA0737B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D00EA93-88E6-4C94-97B6-B729AA0737B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF255A77-7A42-45B1-A643-1037063977DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF255A77-7A42-45B1-A643-1037063977DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF255A77-7A42-45B1-A643-1037063977DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF255A77-7A42-45B1-A643-1037063977DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
