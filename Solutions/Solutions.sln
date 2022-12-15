@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPerimeterTriangle", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{9EEF6A37-78D4-422A-AE18-80BB4C76ADBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum69Number", "Maximum69Number\Maximum69Number.csproj", "{2F213333-5348-458D-98DC-7BD7DD1D6BF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{9EEF6A37-78D4-422A-AE18-80BB4C76ADBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEF6A37-78D4-422A-AE18-80BB4C76ADBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEF6A37-78D4-422A-AE18-80BB4C76ADBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F213333-5348-458D-98DC-7BD7DD1D6BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F213333-5348-458D-98DC-7BD7DD1D6BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F213333-5348-458D-98DC-7BD7DD1D6BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F213333-5348-458D-98DC-7BD7DD1D6BF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
