@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumValueOfAStringInArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCutsToDivideACircle", "MinimumCutsToDivideACircle\MinimumCutsToDivideACircle.csproj", "{5A409EDF-DF16-4FBD-9136-51F331E441A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPerimeterTriangle", "LargestPerimeterTriangle\LargestPerimeterTriangle.csproj", "{5CBE1E0E-18F2-41B8-8F10-B76D6DE70106}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{5A409EDF-DF16-4FBD-9136-51F331E441A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A409EDF-DF16-4FBD-9136-51F331E441A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A409EDF-DF16-4FBD-9136-51F331E441A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBE1E0E-18F2-41B8-8F10-B76D6DE70106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBE1E0E-18F2-41B8-8F10-B76D6DE70106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBE1E0E-18F2-41B8-8F10-B76D6DE70106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBE1E0E-18F2-41B8-8F10-B76D6DE70106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
