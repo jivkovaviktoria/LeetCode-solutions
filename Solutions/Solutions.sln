@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstractTheProductAndSumOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementQueueUsingStack", "ImplementQueueUsingStack\ImplementQueueUsingStack.csproj", "{05C134FD-8C38-4916-9977-B4618769F74E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementMagicDictionary", "ImplementMagicDictionary\ImplementMagicDictionary.csproj", "{CDFAE1CD-7B69-4F3E-8895-A7688085814E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{05C134FD-8C38-4916-9977-B4618769F74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C134FD-8C38-4916-9977-B4618769F74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C134FD-8C38-4916-9977-B4618769F74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFAE1CD-7B69-4F3E-8895-A7688085814E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFAE1CD-7B69-4F3E-8895-A7688085814E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFAE1CD-7B69-4F3E-8895-A7688085814E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFAE1CD-7B69-4F3E-8895-A7688085814E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
