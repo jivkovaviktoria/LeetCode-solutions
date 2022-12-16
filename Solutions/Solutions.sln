@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum69Number", "Maximum6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{94E980D7-5F74-4BED-9281-F87DE05B501A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstractTheProductAndSumOfDigitsOfAnInteger", "SubstractTheProductAndSumOfDigitsOfAnInteger\SubstractTheProductAndSumOfDigitsOfAnInteger.csproj", "{06198D7C-8C3A-4662-8E56-D20DC9E38D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{94E980D7-5F74-4BED-9281-F87DE05B501A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94E980D7-5F74-4BED-9281-F87DE05B501A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94E980D7-5F74-4BED-9281-F87DE05B501A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06198D7C-8C3A-4662-8E56-D20DC9E38D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06198D7C-8C3A-4662-8E56-D20DC9E38D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06198D7C-8C3A-4662-8E56-D20DC9E38D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06198D7C-8C3A-4662-8E56-D20DC9E38D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
