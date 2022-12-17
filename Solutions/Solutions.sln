@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementMagicDictionary", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluateReversePolishNotation", "EvaluateReversePolishNotation\EvaluateReversePolishNotation.csproj", "{BF99D9D5-8CA8-4FF0-8481-B1970B9C1402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindThenEarestPointThatHasTheSameXorYCoordinate", "FindThenEarestPointThatHasTheSameXorYCoordinate\FindThenEarestPointThatHasTheSameXorYCoordinate.csproj", "{8EFCC170-B3C2-40A4-9351-4FF3FFE7D602}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{BF99D9D5-8CA8-4FF0-8481-B1970B9C1402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF99D9D5-8CA8-4FF0-8481-B1970B9C1402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF99D9D5-8CA8-4FF0-8481-B1970B9C1402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFCC170-B3C2-40A4-9351-4FF3FFE7D602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFCC170-B3C2-40A4-9351-4FF3FFE7D602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFCC170-B3C2-40A4-9351-4FF3FFE7D602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFCC170-B3C2-40A4-9351-4FF3FFE7D602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
