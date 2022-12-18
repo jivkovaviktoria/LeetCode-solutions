@@ -56,6 +56,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfOneStringSwapCanMake
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanMakeArithmeticProgression", "CanMakeArithmeticProgression\CanMakeArithmeticProgression.csproj", "{129BCCFF-DB41-48E6-9981-22EEAC30F558}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignOfTheProductOfAnArray", "SignOfTheProductOfAnArray\SignOfTheProductOfAnArray.csproj", "{C309C87E-4492-4772-ACC9-6EF0E944BDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +176,9 @@ Global
 		{129BCCFF-DB41-48E6-9981-22EEAC30F558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{129BCCFF-DB41-48E6-9981-22EEAC30F558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{129BCCFF-DB41-48E6-9981-22EEAC30F558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C309C87E-4492-4772-ACC9-6EF0E944BDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C309C87E-4492-4772-ACC9-6EF0E944BDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C309C87E-4492-4772-ACC9-6EF0E944BDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C309C87E-4492-4772-ACC9-6EF0E944BDA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
