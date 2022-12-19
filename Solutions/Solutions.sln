@@ -70,6 +70,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-aryTreePreorderTraversal"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{C467D31F-8349-49B4-822C-9C51BDB8A166}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,5 +218,9 @@ Global
 		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C467D31F-8349-49B4-822C-9C51BDB8A166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C467D31F-8349-49B4-822C-9C51BDB8A166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C467D31F-8349-49B4-822C-9C51BDB8A166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C467D31F-8349-49B4-822C-9C51BDB8A166}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
