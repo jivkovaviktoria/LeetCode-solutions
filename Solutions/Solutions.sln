@@ -68,6 +68,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfItIsAStraightLine", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-aryTreePreorderTraversal", "N-aryTreePreorderTraversal\N-aryTreePreorderTraversal.csproj", "{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -210,5 +212,9 @@ Global
 		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC42952E-1A5D-4BC3-9C47-4F38DB09193E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
