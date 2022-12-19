@@ -62,6 +62,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIfPathExistInGraph", "FindIfPathExistInGraph\FindIfPathExistInGraph.csproj", "{2A346FA9-E20D-4074-B901-5566521540BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextGreaterElement", "NextGreaterElement\NextGreaterElement.csproj", "{57F28220-7DE3-4237-B8BE-19832FED54DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,5 +194,9 @@ Global
 		{2A346FA9-E20D-4074-B901-5566521540BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A346FA9-E20D-4074-B901-5566521540BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A346FA9-E20D-4074-B901-5566521540BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F28220-7DE3-4237-B8BE-19832FED54DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F28220-7DE3-4237-B8BE-19832FED54DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F28220-7DE3-4237-B8BE-19832FED54DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F28220-7DE3-4237-B8BE-19832FED54DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
