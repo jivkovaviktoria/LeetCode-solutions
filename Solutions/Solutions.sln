@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextGreaterElement", "NextG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfItIsAStraightLine", "CheckIfItIsAStraightLine\CheckIfItIsAStraightLine.csproj", "{0305BDEA-2905-4BF3-ABE9-C51F10A51E63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-aryTreePreorderTraversal", "N-aryTreePreorderTraversal\N-aryTreePreorderTraversal.csproj", "{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +206,9 @@ Global
 		{0305BDEA-2905-4BF3-ABE9-C51F10A51E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0305BDEA-2905-4BF3-ABE9-C51F10A51E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0305BDEA-2905-4BF3-ABE9-C51F10A51E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2B7CF0-23DB-446C-BB6B-C96C0F019432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
