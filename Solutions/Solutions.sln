@@ -78,6 +78,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptStringFromAlphabetTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CellsInARangeOnAnExcelSheet", "CellsInARangeOnAnExcelSheet\CellsInARangeOnAnExcelSheet.csproj", "{BCD3FAA5-AE18-4E1D-9C79-63D8983834FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{83820B1E-45B3-49DE-8403-EA81CAD8409A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -240,5 +242,9 @@ Global
 		{BCD3FAA5-AE18-4E1D-9C79-63D8983834FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD3FAA5-AE18-4E1D-9C79-63D8983834FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD3FAA5-AE18-4E1D-9C79-63D8983834FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
