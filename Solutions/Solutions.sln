@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CellsInARangeOnAnExcelSheet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{83820B1E-45B3-49DE-8403-EA81CAD8409A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{A050F68E-C7CC-4EDC-803D-E3299B6427B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -246,5 +248,9 @@ Global
 		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83820B1E-45B3-49DE-8403-EA81CAD8409A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A050F68E-C7CC-4EDC-803D-E3299B6427B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A050F68E-C7CC-4EDC-803D-E3299B6427B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A050F68E-C7CC-4EDC-803D-E3299B6427B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A050F68E-C7CC-4EDC-803D-E3299B6427B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
