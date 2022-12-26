@@ -88,6 +88,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame", "JumpGame\JumpGame.csproj", "{4E15680A-CCCB-470B-B93B-0DEDD0081669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonotonicArray", "MonotonicArray\MonotonicArray.csproj", "{11D38E01-73FD-4EAB-9620-652687790673}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -270,5 +272,9 @@ Global
 		{4E15680A-CCCB-470B-B93B-0DEDD0081669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E15680A-CCCB-470B-B93B-0DEDD0081669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E15680A-CCCB-470B-B93B-0DEDD0081669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D38E01-73FD-4EAB-9620-652687790673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D38E01-73FD-4EAB-9620-652687790673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D38E01-73FD-4EAB-9620-652687790673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D38E01-73FD-4EAB-9620-652687790673}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
