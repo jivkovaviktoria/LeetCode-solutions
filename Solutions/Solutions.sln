@@ -94,6 +94,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumBagsWithFullCapacity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentageOfLetterInString", "PercentageOfLetterInString\PercentageOfLetterInString.csproj", "{5BE0ABAB-5A58-4CFA-AA87-EC4C9021554D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\WordPattern.csproj", "{42B14D2A-50FE-490F-B8F3-26881782A107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -288,5 +290,9 @@ Global
 		{5BE0ABAB-5A58-4CFA-AA87-EC4C9021554D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE0ABAB-5A58-4CFA-AA87-EC4C9021554D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE0ABAB-5A58-4CFA-AA87-EC4C9021554D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B14D2A-50FE-490F-B8F3-26881782A107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B14D2A-50FE-490F-B8F3-26881782A107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B14D2A-50FE-490F-B8F3-26881782A107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B14D2A-50FE-490F-B8F3-26881782A107}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
