@@ -98,6 +98,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionStringIntoSubstringsWithValuesAtMostK", "PartitionStringIntoSubstringsWithValuesAtMostK\PartitionStringIntoSubstringsWithValuesAtMostK.csproj", "{1BE390E4-7448-43AA-83B2-0A6C67C8CCB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{B05CDE0C-27BB-4307-A961-4FF0E7C5D306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,5 +302,9 @@ Global
 		{1BE390E4-7448-43AA-83B2-0A6C67C8CCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE390E4-7448-43AA-83B2-0A6C67C8CCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE390E4-7448-43AA-83B2-0A6C67C8CCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05CDE0C-27BB-4307-A961-4FF0E7C5D306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05CDE0C-27BB-4307-A961-4FF0E7C5D306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05CDE0C-27BB-4307-A961-4FF0E7C5D306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05CDE0C-27BB-4307-A961-4FF0E7C5D306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
