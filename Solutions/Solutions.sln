@@ -104,6 +104,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongPasswordCheckerII", "StrongPasswordCheckerII\StrongPasswordCheckerII.csproj", "{4FBCE701-499D-483B-B7AE-B6B8C5E05BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTargetIndicesAfterSortingArray", "FindTargetIndicesAfterSortingArray\FindTargetIndicesAfterSortingArray.csproj", "{AFEC047B-0397-41F8-B44B-29F01A957FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-aryTreePostorderTraversal", "N-aryTreePostorderTraversal\N-aryTreePostorderTraversal.csproj", "{2F765877-F756-4142-9769-49C0E3ABE8E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -318,5 +322,13 @@ Global
 		{4FBCE701-499D-483B-B7AE-B6B8C5E05BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FBCE701-499D-483B-B7AE-B6B8C5E05BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FBCE701-499D-483B-B7AE-B6B8C5E05BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFEC047B-0397-41F8-B44B-29F01A957FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEC047B-0397-41F8-B44B-29F01A957FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEC047B-0397-41F8-B44B-29F01A957FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEC047B-0397-41F8-B44B-29F01A957FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F765877-F756-4142-9769-49C0E3ABE8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F765877-F756-4142-9769-49C0E3ABE8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F765877-F756-4142-9769-49C0E3ABE8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F765877-F756-4142-9769-49C0E3ABE8E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
