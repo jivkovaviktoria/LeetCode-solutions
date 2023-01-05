@@ -112,6 +112,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRoundsToCompleteAllT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfArrowsToBurstBalloons", "MinimumNumberOfArrowsToBurstBalloons\MinimumNumberOfArrowsToBurstBalloons.csproj", "{1971C022-9174-4DE8-ADB2-624719D0C545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePrefixOfWord", "ReversePrefixOfWord\ReversePrefixOfWord.csproj", "{EE6A9C16-4803-4365-B4AA-DC7F19015513}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -342,5 +344,9 @@ Global
 		{1971C022-9174-4DE8-ADB2-624719D0C545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1971C022-9174-4DE8-ADB2-624719D0C545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1971C022-9174-4DE8-ADB2-624719D0C545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
