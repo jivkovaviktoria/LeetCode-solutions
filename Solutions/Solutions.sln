@@ -114,6 +114,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfArrowsToBurs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePrefixOfWord", "ReversePrefixOfWord\ReversePrefixOfWord.csproj", "{EE6A9C16-4803-4365-B4AA-DC7F19015513}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountEqualAndDivisiblePairsInAnArray", "CountEqualAndDivisiblePairsInAnArray\CountEqualAndDivisiblePairsInAnArray.csproj", "{6357C26B-F35C-49BA-A015-12695CCA0D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -348,5 +350,9 @@ Global
 		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE6A9C16-4803-4365-B4AA-DC7F19015513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6357C26B-F35C-49BA-A015-12695CCA0D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6357C26B-F35C-49BA-A015-12695CCA0D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6357C26B-F35C-49BA-A015-12695CCA0D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6357C26B-F35C-49BA-A015-12695CCA0D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
