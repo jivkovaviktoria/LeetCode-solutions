@@ -134,6 +134,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThousandSeparator", "Thousa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WateringPlants", "WateringPlants\WateringPlants.csproj", "{1EEEAD98-7C27-48D3-8FC4-90F3687C685E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumCountOfPositiveIntegerAndNegativeInteger", "MaximumCountOfPositiveIntegerAndNegativeInteger\MaximumCountOfPositiveIntegerAndNegativeInteger.csproj", "{D24A2B1A-FDD0-43A5-9CFA-8A3F409B97E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -408,5 +410,9 @@ Global
 		{1EEEAD98-7C27-48D3-8FC4-90F3687C685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EEEAD98-7C27-48D3-8FC4-90F3687C685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EEEAD98-7C27-48D3-8FC4-90F3687C685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24A2B1A-FDD0-43A5-9CFA-8A3F409B97E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24A2B1A-FDD0-43A5-9CFA-8A3F409B97E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24A2B1A-FDD0-43A5-9CFA-8A3F409B97E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24A2B1A-FDD0-43A5-9CFA-8A3F409B97E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
