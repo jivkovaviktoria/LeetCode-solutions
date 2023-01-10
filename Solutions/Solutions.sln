@@ -128,6 +128,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeInorderTraversal"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfStringIsAPrefixOfArray", "CheckIfStringIsAPrefixOfArray\CheckIfStringIsAPrefixOfArray.csproj", "{A38267C6-06E6-498C-A882-B47AFD14463A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SameTree", "SameTree\SameTree.csproj", "{B2CB69F4-5A04-4F83-A08C-018D111493A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -390,5 +392,9 @@ Global
 		{A38267C6-06E6-498C-A882-B47AFD14463A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38267C6-06E6-498C-A882-B47AFD14463A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A38267C6-06E6-498C-A882-B47AFD14463A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CB69F4-5A04-4F83-A08C-018D111493A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CB69F4-5A04-4F83-A08C-018D111493A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CB69F4-5A04-4F83-A08C-018D111493A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CB69F4-5A04-4F83-A08C-018D111493A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
