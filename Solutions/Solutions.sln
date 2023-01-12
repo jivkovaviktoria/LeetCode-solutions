@@ -140,6 +140,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfLinesToWriteString"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCenterOfStarGraph", "FindCenterOfStarGraph\FindCenterOfStarGraph.csproj", "{BAAEF51E-80C9-4DF4-BAFF-63715EEBE33E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfValidWordsInASentence", "NumberOfValidWordsInASentence\NumberOfValidWordsInASentence.csproj", "{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -426,5 +428,9 @@ Global
 		{BAAEF51E-80C9-4DF4-BAFF-63715EEBE33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAAEF51E-80C9-4DF4-BAFF-63715EEBE33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAEF51E-80C9-4DF4-BAFF-63715EEBE33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
