@@ -142,6 +142,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCenterOfStarGraph", "Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfValidWordsInASentence", "NumberOfValidWordsInASentence\NumberOfValidWordsInASentence.csproj", "{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangleII", "PascalsTriangleII\PascalsTriangleII.csproj", "{1426F668-B557-49FF-9720-2BEEE9B32A51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -432,5 +434,9 @@ Global
 		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E7DD82B-95FF-46A8-AA79-4C3FB9177A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1426F668-B557-49FF-9720-2BEEE9B32A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1426F668-B557-49FF-9720-2BEEE9B32A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1426F668-B557-49FF-9720-2BEEE9B32A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1426F668-B557-49FF-9720-2BEEE9B32A51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
