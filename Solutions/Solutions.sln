@@ -148,6 +148,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricTree", "SymmetricT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOneElementToMakeTheArrayStrictlyIncreasing", "RemoveOneElementToMakeTheArrayStrictlyIncreasing\RemoveOneElementToMakeTheArrayStrictlyIncreasing.csproj", "{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementAppearingMoreThan25PercentsInSortedArray", "ElementAppearingMoreThan25PercentsInSortedArray\ElementAppearingMoreThan25PercentsInSortedArray.csproj", "{D1D0D7FC-8148-47BE-8F72-6C343B6612A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -450,5 +452,9 @@ Global
 		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D0D7FC-8148-47BE-8F72-6C343B6612A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D0D7FC-8148-47BE-8F72-6C343B6612A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D0D7FC-8148-47BE-8F72-6C343B6612A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D0D7FC-8148-47BE-8F72-6C343B6612A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
