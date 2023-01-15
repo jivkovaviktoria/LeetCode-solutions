@@ -146,6 +146,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalsTriangleII", "Pascal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricTree", "SymmetricTree\SymmetricTree.csproj", "{74573264-E177-4B79-B11C-B1A79E672AC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOneElementToMakeTheArrayStrictlyIncreasing", "RemoveOneElementToMakeTheArrayStrictlyIncreasing\RemoveOneElementToMakeTheArrayStrictlyIncreasing.csproj", "{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -444,5 +446,9 @@ Global
 		{74573264-E177-4B79-B11C-B1A79E672AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74573264-E177-4B79-B11C-B1A79E672AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74573264-E177-4B79-B11C-B1A79E672AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A0D92D-C8E5-4F0C-8CEF-FC2006156B61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
