@@ -160,6 +160,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByIncreasingFreque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepMultiplyingFoundValuesByTwo", "KeepMultiplyingFoundValuesByTwo\KeepMultiplyingFoundValuesByTwo.csproj", "{03442C89-6A8A-4744-A4BE-7B68DAE5355F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumberAtLeastTwiceOfOthers", "LargestNumberAtLeastTwiceOfOthers\LargestNumberAtLeastTwiceOfOthers.csproj", "{A90639F0-D353-4CBC-9CA2-E0340557FDC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -486,5 +488,9 @@ Global
 		{03442C89-6A8A-4744-A4BE-7B68DAE5355F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03442C89-6A8A-4744-A4BE-7B68DAE5355F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03442C89-6A8A-4744-A4BE-7B68DAE5355F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
