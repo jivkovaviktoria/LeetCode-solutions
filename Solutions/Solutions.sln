@@ -162,6 +162,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepMultiplyingFoundValuesB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumberAtLeastTwiceOfOthers", "LargestNumberAtLeastTwiceOfOthers\LargestNumberAtLeastTwiceOfOthers.csproj", "{A90639F0-D353-4CBC-9CA2-E0340557FDC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandPerimeter", "IslandPerimeter\IslandPerimeter.csproj", "{7DC4FB6B-C7E9-45C0-8B13-EB18543AED95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -492,5 +494,9 @@ Global
 		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90639F0-D353-4CBC-9CA2-E0340557FDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC4FB6B-C7E9-45C0-8B13-EB18543AED95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC4FB6B-C7E9-45C0-8B13-EB18543AED95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC4FB6B-C7E9-45C0-8B13-EB18543AED95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC4FB6B-C7E9-45C0-8B13-EB18543AED95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
