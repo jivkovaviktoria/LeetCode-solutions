@@ -166,6 +166,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandPerimeter", "IslandPe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyNumber", "UglyNumber\UglyNumber.csproj", "{B6479409-343D-40E9-B8AE-180660DA2FE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfRecentCalls", "NumberOfRecentCalls\NumberOfRecentCalls.csproj", "{D7E2D7AF-B37F-4B40-83E0-72300422AECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -504,5 +506,9 @@ Global
 		{B6479409-343D-40E9-B8AE-180660DA2FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6479409-343D-40E9-B8AE-180660DA2FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6479409-343D-40E9-B8AE-180660DA2FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E2D7AF-B37F-4B40-83E0-72300422AECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E2D7AF-B37F-4B40-83E0-72300422AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E2D7AF-B37F-4B40-83E0-72300422AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E2D7AF-B37F-4B40-83E0-72300422AECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
