@@ -170,6 +170,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfRecentCalls", "Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfFour", "PowerOfFour\PowerOfFour.csproj", "{C479BE1B-059E-48DF-9730-EE22B2A69DD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfTwo", "PowerOfTwo\PowerOfTwo.csproj", "{04D1E331-EBCB-4628-BAFB-432356B5B471}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -516,5 +518,9 @@ Global
 		{C479BE1B-059E-48DF-9730-EE22B2A69DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C479BE1B-059E-48DF-9730-EE22B2A69DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C479BE1B-059E-48DF-9730-EE22B2A69DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D1E331-EBCB-4628-BAFB-432356B5B471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D1E331-EBCB-4628-BAFB-432356B5B471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D1E331-EBCB-4628-BAFB-432356B5B471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D1E331-EBCB-4628-BAFB-432356B5B471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
