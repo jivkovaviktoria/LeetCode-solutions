@@ -176,6 +176,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnNumber", "ExcelSheetColumnNumber\ExcelSheetColumnNumber.csproj", "{52AA533C-6606-4F67-9554-56AB49174EEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheTownJudge", "FindTheTownJudge\FindTheTownJudge.csproj", "{5034F5AD-133A-4192-8693-EF064773147F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -534,5 +536,9 @@ Global
 		{52AA533C-6606-4F67-9554-56AB49174EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52AA533C-6606-4F67-9554-56AB49174EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52AA533C-6606-4F67-9554-56AB49174EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5034F5AD-133A-4192-8693-EF064773147F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5034F5AD-133A-4192-8693-EF064773147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5034F5AD-133A-4192-8693-EF064773147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5034F5AD-133A-4192-8693-EF064773147F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
