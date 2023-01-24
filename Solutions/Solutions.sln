@@ -174,6 +174,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfTwo", "PowerOfTwo\Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{2028F09B-DC11-4B23-AA6B-DBA97AA76BD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnNumber", "ExcelSheetColumnNumber\ExcelSheetColumnNumber.csproj", "{52AA533C-6606-4F67-9554-56AB49174EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -528,5 +530,9 @@ Global
 		{2028F09B-DC11-4B23-AA6B-DBA97AA76BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2028F09B-DC11-4B23-AA6B-DBA97AA76BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2028F09B-DC11-4B23-AA6B-DBA97AA76BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AA533C-6606-4F67-9554-56AB49174EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AA533C-6606-4F67-9554-56AB49174EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AA533C-6606-4F67-9554-56AB49174EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AA533C-6606-4F67-9554-56AB49174EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
