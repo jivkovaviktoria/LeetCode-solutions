@@ -178,6 +178,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnNumber", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheTownJudge", "FindTheTownJudge\FindTheTownJudge.csproj", "{5034F5AD-133A-4192-8693-EF064773147F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsets", "Subsets\Subsets.csproj", "{FDD271B7-D657-480F-80EB-A2B4922B8058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -540,5 +542,9 @@ Global
 		{5034F5AD-133A-4192-8693-EF064773147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5034F5AD-133A-4192-8693-EF064773147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5034F5AD-133A-4192-8693-EF064773147F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD271B7-D657-480F-80EB-A2B4922B8058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD271B7-D657-480F-80EB-A2B4922B8058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD271B7-D657-480F-80EB-A2B4922B8058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD271B7-D657-480F-80EB-A2B4922B8058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
