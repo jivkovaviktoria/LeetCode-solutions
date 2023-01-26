@@ -188,6 +188,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation", "GasStation\Ga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base7", "Base7\Base7.csproj", "{36998264-8ABE-47E9-8482-B3A2A10818B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{2F2FA209-44FA-4301-9C4B-659E8E2DD35A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -570,5 +572,9 @@ Global
 		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2FA209-44FA-4301-9C4B-659E8E2DD35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2FA209-44FA-4301-9C4B-659E8E2DD35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2FA209-44FA-4301-9C4B-659E8E2DD35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2FA209-44FA-4301-9C4B-659E8E2DD35A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
