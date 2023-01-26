@@ -186,6 +186,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindGreatestCommonDivisorOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation", "GasStation\GasStation.csproj", "{75BE8865-9F6C-487B-BB6E-33AE4161C3E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base7", "Base7\Base7.csproj", "{36998264-8ABE-47E9-8482-B3A2A10818B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -564,5 +566,9 @@ Global
 		{75BE8865-9F6C-487B-BB6E-33AE4161C3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BE8865-9F6C-487B-BB6E-33AE4161C3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BE8865-9F6C-487B-BB6E-33AE4161C3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36998264-8ABE-47E9-8482-B3A2A10818B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
