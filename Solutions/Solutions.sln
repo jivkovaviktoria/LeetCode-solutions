@@ -192,6 +192,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxConsecutiveOnes", "MaxCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestContiguousSegmentsOfOnesThanZeros", "LongestContiguousSegmentsOfOnesThanZeros\LongestContiguousSegmentsOfOnesThanZeros.csproj", "{C3C0C09F-AB94-4367-8A07-C51D2E62D3B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check if Binary String Has at Most One Segment of Ones", "Check if Binary String Has at Most One Segment of Ones\Check if Binary String Has at Most One Segment of Ones.csproj", "{4A304297-2B8A-4058-86CB-B259DC902E86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -582,5 +584,9 @@ Global
 		{C3C0C09F-AB94-4367-8A07-C51D2E62D3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C0C09F-AB94-4367-8A07-C51D2E62D3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C0C09F-AB94-4367-8A07-C51D2E62D3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A304297-2B8A-4058-86CB-B259DC902E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A304297-2B8A-4058-86CB-B259DC902E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A304297-2B8A-4058-86CB-B259DC902E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A304297-2B8A-4058-86CB-B259DC902E86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

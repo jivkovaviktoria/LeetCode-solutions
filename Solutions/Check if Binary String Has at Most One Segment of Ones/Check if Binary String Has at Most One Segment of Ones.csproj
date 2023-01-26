@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones</RootNamespace>
+    </PropertyGroup>
+
+</Project>
