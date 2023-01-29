@@ -196,6 +196,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check if Binary String Has 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingTheUsersMostActiveMinutes", "FindingTheUsersMostActiveMinutes\FindingTheUsersMostActiveMinutes.csproj", "{56FBB00E-2652-4250-BE69-23AE7C07C09C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDigits", "AddDigits\AddDigits.csproj", "{737AA3C4-5B4C-45A7-9EA3-7994864D5025}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -594,5 +596,9 @@ Global
 		{56FBB00E-2652-4250-BE69-23AE7C07C09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56FBB00E-2652-4250-BE69-23AE7C07C09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56FBB00E-2652-4250-BE69-23AE7C07C09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737AA3C4-5B4C-45A7-9EA3-7994864D5025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737AA3C4-5B4C-45A7-9EA3-7994864D5025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737AA3C4-5B4C-45A7-9EA3-7994864D5025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737AA3C4-5B4C-45A7-9EA3-7994864D5025}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
