@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDigits", "AddDigits\AddD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncommonWordsFromTwoSentences", "UncommonWordsFromTwoSentences\UncommonWordsFromTwoSentences.csproj", "{986CCA80-62B5-47C0-93C2-9F3F6A898132}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCommonWordsWithOneOccurrence", "CountCommonWordsWithOneOccurrence\CountCommonWordsWithOneOccurrence.csproj", "{C50E74D6-A31E-4AEA-A7AF-7A64B43EBCEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -606,5 +608,9 @@ Global
 		{986CCA80-62B5-47C0-93C2-9F3F6A898132}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986CCA80-62B5-47C0-93C2-9F3F6A898132}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986CCA80-62B5-47C0-93C2-9F3F6A898132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50E74D6-A31E-4AEA-A7AF-7A64B43EBCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50E74D6-A31E-4AEA-A7AF-7A64B43EBCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50E74D6-A31E-4AEA-A7AF-7A64B43EBCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50E74D6-A31E-4AEA-A7AF-7A64B43EBCEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
