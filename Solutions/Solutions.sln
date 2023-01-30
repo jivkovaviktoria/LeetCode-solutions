@@ -204,6 +204,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCommonWordsWithOneOccu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KthDistinctStringInArray", "KthDistinctStringInArray\KthDistinctStringInArray.csproj", "{B82010A8-B1D3-4B52-B4EA-05A08B80CFFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.csproj", "{73F4C911-4467-436D-9350-7236C830367B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -618,5 +620,9 @@ Global
 		{B82010A8-B1D3-4B52-B4EA-05A08B80CFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82010A8-B1D3-4B52-B4EA-05A08B80CFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82010A8-B1D3-4B52-B4EA-05A08B80CFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F4C911-4467-436D-9350-7236C830367B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F4C911-4467-436D-9350-7236C830367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F4C911-4467-436D-9350-7236C830367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F4C911-4467-436D-9350-7236C830367B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
