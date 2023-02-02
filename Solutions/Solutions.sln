@@ -206,6 +206,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KthDistinctStringInArray", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.csproj", "{73F4C911-4467-436D-9350-7236C830367B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArrayII", "RemoveDuplicatesFromSortedArrayII\RemoveDuplicatesFromSortedArrayII.csproj", "{E95B4E77-B6C0-4981-9F27-5CE083B0F5F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -624,5 +626,9 @@ Global
 		{73F4C911-4467-436D-9350-7236C830367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F4C911-4467-436D-9350-7236C830367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F4C911-4467-436D-9350-7236C830367B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95B4E77-B6C0-4981-9F27-5CE083B0F5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95B4E77-B6C0-4981-9F27-5CE083B0F5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95B4E77-B6C0-4981-9F27-5CE083B0F5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95B4E77-B6C0-4981-9F27-5CE083B0F5F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
