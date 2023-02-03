@@ -210,6 +210,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestCommonDivisorOfStrings", "GreatestCommonDivisorOfStrings\GreatestCommonDivisorOfStrings.csproj", "{6C82AC8D-7DFF-4D4D-AD7A-6CA506305EB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumOperationsToMakeArrayEqual", "MinimumOperationsToMakeArrayEqual\MinimumOperationsToMakeArrayEqual.csproj", "{EC1D8795-4C7A-4C35-89BB-D29D99D3CE51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -636,5 +638,9 @@ Global
 		{6C82AC8D-7DFF-4D4D-AD7A-6CA506305EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C82AC8D-7DFF-4D4D-AD7A-6CA506305EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C82AC8D-7DFF-4D4D-AD7A-6CA506305EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1D8795-4C7A-4C35-89BB-D29D99D3CE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1D8795-4C7A-4C35-89BB-D29D99D3CE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1D8795-4C7A-4C35-89BB-D29D99D3CE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1D8795-4C7A-4C35-89BB-D29D99D3CE51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
