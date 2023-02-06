@@ -216,6 +216,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComplement", "NumberC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllAnagramsInAString", "FindAllAnagramsInAString\FindAllAnagramsInAString.csproj", "{7ABAD9CE-B76A-4EE3-8F93-8FE8CE949B02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparateDigitsInAnArray", "SeparateDigitsInAnArray\SeparateDigitsInAnArray.csproj", "{7575EAE2-8CCA-45DD-90B5-6A5FFE1C7878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -654,5 +656,9 @@ Global
 		{7ABAD9CE-B76A-4EE3-8F93-8FE8CE949B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ABAD9CE-B76A-4EE3-8F93-8FE8CE949B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ABAD9CE-B76A-4EE3-8F93-8FE8CE949B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7575EAE2-8CCA-45DD-90B5-6A5FFE1C7878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7575EAE2-8CCA-45DD-90B5-6A5FFE1C7878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7575EAE2-8CCA-45DD-90B5-6A5FFE1C7878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7575EAE2-8CCA-45DD-90B5-6A5FFE1C7878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
