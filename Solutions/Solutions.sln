@@ -226,6 +226,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameII", "JumpGameII\Ju
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayTableOfFoodOrdersInARestaurant", "DisplayTableOfFoodOrdersInARestaurant\DisplayTableOfFoodOrdersInARestaurant.csproj", "{92386CD7-C920-4ECE-926A-653FB2CC4574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfLaserBeamsInABank", "NumberOfLaserBeamsInABank\NumberOfLaserBeamsInABank.csproj", "{A118AFD2-EEF7-4AE7-8D04-438850E21FD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -684,5 +686,9 @@ Global
 		{92386CD7-C920-4ECE-926A-653FB2CC4574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92386CD7-C920-4ECE-926A-653FB2CC4574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92386CD7-C920-4ECE-926A-653FB2CC4574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A118AFD2-EEF7-4AE7-8D04-438850E21FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A118AFD2-EEF7-4AE7-8D04-438850E21FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A118AFD2-EEF7-4AE7-8D04-438850E21FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A118AFD2-EEF7-4AE7-8D04-438850E21FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
