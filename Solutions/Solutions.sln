@@ -230,6 +230,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfLaserBeamsInABank",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringII", "ReverseStringII\ReverseStringII.csproj", "{F44361F0-279A-4503-B42F-1F3289F1F961}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddToArray-FormOfInteger", "AddToArray-FormOfInteger\AddToArray-FormOfInteger.csproj", "{2063C240-C109-499F-BA05-2552BB49D2BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -696,5 +698,9 @@ Global
 		{F44361F0-279A-4503-B42F-1F3289F1F961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F44361F0-279A-4503-B42F-1F3289F1F961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F44361F0-279A-4503-B42F-1F3289F1F961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2063C240-C109-499F-BA05-2552BB49D2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2063C240-C109-499F-BA05-2552BB49D2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2063C240-C109-499F-BA05-2552BB49D2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2063C240-C109-499F-BA05-2552BB49D2BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
