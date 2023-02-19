@@ -242,6 +242,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentEvenElement", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopKFrequentElements", "TopKFrequentElements\TopKFrequentElements.csproj", "{97B2DA30-150D-4858-BA25-5889A582BFF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostCommonWord", "MostCommonWord\MostCommonWord.csproj", "{CD00BFC2-64CA-4558-B57A-82D7880F9311}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -732,5 +734,9 @@ Global
 		{97B2DA30-150D-4858-BA25-5889A582BFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97B2DA30-150D-4858-BA25-5889A582BFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97B2DA30-150D-4858-BA25-5889A582BFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD00BFC2-64CA-4558-B57A-82D7880F9311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD00BFC2-64CA-4558-B57A-82D7880F9311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD00BFC2-64CA-4558-B57A-82D7880F9311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD00BFC2-64CA-4558-B57A-82D7880F9311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
