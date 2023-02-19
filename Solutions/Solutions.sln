@@ -238,6 +238,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandOfStraights", "HandOfSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElementII", "MajorityElementII\MajorityElementII.csproj", "{139882CD-5D0D-4B4B-810C-1384C67788F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentEvenElement", "MostFrequentEvenElement\MostFrequentEvenElement.csproj", "{ED345081-4D84-46C4-A8A7-D113D060BAFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -720,5 +722,9 @@ Global
 		{139882CD-5D0D-4B4B-810C-1384C67788F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{139882CD-5D0D-4B4B-810C-1384C67788F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{139882CD-5D0D-4B4B-810C-1384C67788F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED345081-4D84-46C4-A8A7-D113D060BAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED345081-4D84-46C4-A8A7-D113D060BAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED345081-4D84-46C4-A8A7-D113D060BAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED345081-4D84-46C4-A8A7-D113D060BAFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
