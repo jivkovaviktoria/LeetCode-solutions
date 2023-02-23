@@ -248,6 +248,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater", "Trappi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentNumberFollowingKeyInAnArray", "MostFrequentNumberFollowingKeyInAnArray\MostFrequentNumberFollowingKeyInAnArray.csproj", "{72BECFF6-499E-4345-989F-417F2CB07937}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleElementInASortedArray", "SingleElementInASortedArray\SingleElementInASortedArray.csproj", "{1CCB02A1-0213-4046-8982-0055B20EF713}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -750,5 +752,9 @@ Global
 		{72BECFF6-499E-4345-989F-417F2CB07937}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72BECFF6-499E-4345-989F-417F2CB07937}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72BECFF6-499E-4345-989F-417F2CB07937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCB02A1-0213-4046-8982-0055B20EF713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCB02A1-0213-4046-8982-0055B20EF713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCB02A1-0213-4046-8982-0055B20EF713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCB02A1-0213-4046-8982-0055B20EF713}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
