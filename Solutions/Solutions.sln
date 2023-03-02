@@ -258,6 +258,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintWordsVertically", "Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAttendanceRecordI", "StudentAttendanceRecordI\StudentAttendanceRecordI.csproj", "{4EBD9114-242F-4548-962B-03D8CCEB905F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMiddleIndexInArray", "FindTheMiddleIndexInArray\FindTheMiddleIndexInArray.csproj", "{278FA9E4-BC2D-4BFA-99C5-464213115DC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -780,5 +782,9 @@ Global
 		{4EBD9114-242F-4548-962B-03D8CCEB905F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EBD9114-242F-4548-962B-03D8CCEB905F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EBD9114-242F-4548-962B-03D8CCEB905F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278FA9E4-BC2D-4BFA-99C5-464213115DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278FA9E4-BC2D-4BFA-99C5-464213115DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278FA9E4-BC2D-4BFA-99C5-464213115DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278FA9E4-BC2D-4BFA-99C5-464213115DC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
