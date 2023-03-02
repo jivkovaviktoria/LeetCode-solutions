@@ -252,6 +252,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleElementInASortedArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeSortArray", "RelativeSortArray\RelativeSortArray.csproj", "{FD8FC799-A8B3-42A0-889E-B42713205D6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{54E3C88B-F722-452A-8A51-CAA32D072797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -762,5 +764,9 @@ Global
 		{FD8FC799-A8B3-42A0-889E-B42713205D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD8FC799-A8B3-42A0-889E-B42713205D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD8FC799-A8B3-42A0-889E-B42713205D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E3C88B-F722-452A-8A51-CAA32D072797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E3C88B-F722-452A-8A51-CAA32D072797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E3C88B-F722-452A-8A51-CAA32D072797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E3C88B-F722-452A-8A51-CAA32D072797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
