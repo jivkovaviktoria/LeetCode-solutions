@@ -270,6 +270,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfRectanglesThatCanFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfZero-FilledSubarrays", "NumberOfZero-FilledSubarrays\NumberOfZero-FilledSubarrays.csproj", "{E6F60867-0AD9-43F9-B3C2-5EEBE1BA3546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingDigitSum", "AlternatingDigitSum\AlternatingDigitSum.csproj", "{F43EFE8B-206C-495A-9921-9689E6690A91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -816,5 +818,9 @@ Global
 		{E6F60867-0AD9-43F9-B3C2-5EEBE1BA3546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6F60867-0AD9-43F9-B3C2-5EEBE1BA3546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6F60867-0AD9-43F9-B3C2-5EEBE1BA3546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43EFE8B-206C-495A-9921-9689E6690A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43EFE8B-206C-495A-9921-9689E6690A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43EFE8B-206C-495A-9921-9689E6690A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43EFE8B-206C-495A-9921-9689E6690A91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
