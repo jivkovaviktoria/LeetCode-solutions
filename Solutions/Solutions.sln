@@ -272,6 +272,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfZero-FilledSubarray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingDigitSum", "AlternatingDigitSum\AlternatingDigitSum.csproj", "{F43EFE8B-206C-495A-9921-9689E6690A91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxIncreaseToKeepCitySkyline", "MaxIncreaseToKeepCitySkyline\MaxIncreaseToKeepCitySkyline.csproj", "{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -822,5 +824,9 @@ Global
 		{F43EFE8B-206C-495A-9921-9689E6690A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F43EFE8B-206C-495A-9921-9689E6690A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F43EFE8B-206C-495A-9921-9689E6690A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
