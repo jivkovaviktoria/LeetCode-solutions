@@ -274,6 +274,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingDigitSum", "Alte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxIncreaseToKeepCitySkyline", "MaxIncreaseToKeepCitySkyline\MaxIncreaseToKeepCitySkyline.csproj", "{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanPlaceFlowers", "CanPlaceFlowers\CanPlaceFlowers.csproj", "{51E54D29-6E72-408B-8ED7-056DD049524C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -828,5 +830,9 @@ Global
 		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0458D0F5-EF19-40E3-AF4D-C6EAB8993AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E54D29-6E72-408B-8ED7-056DD049524C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E54D29-6E72-408B-8ED7-056DD049524C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E54D29-6E72-408B-8ED7-056DD049524C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E54D29-6E72-408B-8ED7-056DD049524C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
