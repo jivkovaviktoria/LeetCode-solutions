@@ -282,6 +282,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestUncommonSubsequenceI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOfAKindInADeckOfCards", "XOfAKindInADeckOfCards\XOfAKindInADeckOfCards.csproj", "{C6E994EB-40FD-409D-A7BB-DDF0135A2135}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfBalloons", "MaximumNumberOfBalloons\MaximumNumberOfBalloons.csproj", "{DA86FEA6-3A94-42FA-8B1B-33ED71096C66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -852,5 +854,9 @@ Global
 		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA86FEA6-3A94-42FA-8B1B-33ED71096C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA86FEA6-3A94-42FA-8B1B-33ED71096C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA86FEA6-3A94-42FA-8B1B-33ED71096C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA86FEA6-3A94-42FA-8B1B-33ED71096C66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
