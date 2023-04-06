@@ -280,6 +280,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberHigherOrLower", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestUncommonSubsequenceI", "LongestUncommonSubsequenceI\LongestUncommonSubsequenceI.csproj", "{178B3868-E176-44B8-BCEE-736C18B92E1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOfAKindInADeckOfCards", "XOfAKindInADeckOfCards\XOfAKindInADeckOfCards.csproj", "{C6E994EB-40FD-409D-A7BB-DDF0135A2135}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -846,5 +848,9 @@ Global
 		{178B3868-E176-44B8-BCEE-736C18B92E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{178B3868-E176-44B8-BCEE-736C18B92E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{178B3868-E176-44B8-BCEE-736C18B92E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E994EB-40FD-409D-A7BB-DDF0135A2135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
