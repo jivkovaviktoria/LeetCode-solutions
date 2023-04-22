@@ -286,6 +286,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfBalloons", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSmallestNumberFromTwoDigitsArrays", "FormSmallestNumberFromTwoDigitsArrays\FormSmallestNumberFromTwoDigitsArrays.csproj", "{A965126B-F61D-4DAC-9D46-11CDD683E2AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfWordEqualsSummationOfTwoWords", "CheckIfWordEqualsSummationOfTwoWords\CheckIfWordEqualsSummationOfTwoWords.csproj", "{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -864,5 +866,9 @@ Global
 		{A965126B-F61D-4DAC-9D46-11CDD683E2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A965126B-F61D-4DAC-9D46-11CDD683E2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A965126B-F61D-4DAC-9D46-11CDD683E2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
