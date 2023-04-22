@@ -288,6 +288,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSmallestNumberFromTwoDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfWordEqualsSummationOfTwoWords", "CheckIfWordEqualsSummationOfTwoWords\CheckIfWordEqualsSummationOfTwoWords.csproj", "{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMaximumDivisibilityScore", "FindTheMaximumDivisibilityScore\FindTheMaximumDivisibilityScore.csproj", "{65DBC718-59CB-46F0-B866-738542070909}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -870,5 +872,9 @@ Global
 		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F907CDA3-4BE3-4C6A-B6B2-303A3E6C27F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DBC718-59CB-46F0-B866-738542070909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DBC718-59CB-46F0-B866-738542070909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DBC718-59CB-46F0-B866-738542070909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DBC718-59CB-46F0-B866-738542070909}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
