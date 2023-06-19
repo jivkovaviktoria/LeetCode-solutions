@@ -296,6 +296,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicallySmallestPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfTheNumberIsFascinating", "CheckIfTheNumberIsFascinating\CheckIfTheNumberIsFascinating.csproj", "{E97AF425-6701-4515-8861-0A33FEB8CB1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalDistanceTraveled", "TotalDistanceTraveled\TotalDistanceTraveled.csproj", "{7E193636-8A1D-4D6A-8DF0-1D7C7547E509}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -894,5 +896,9 @@ Global
 		{E97AF425-6701-4515-8861-0A33FEB8CB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E97AF425-6701-4515-8861-0A33FEB8CB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E97AF425-6701-4515-8861-0A33FEB8CB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E193636-8A1D-4D6A-8DF0-1D7C7547E509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E193636-8A1D-4D6A-8DF0-1D7C7547E509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E193636-8A1D-4D6A-8DF0-1D7C7547E509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E193636-8A1D-4D6A-8DF0-1D7C7547E509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
