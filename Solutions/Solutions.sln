@@ -300,6 +300,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalDistanceTraveled", "To
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheValueOfThePartition", "FindTheValueOfThePartition\FindTheValueOfThePartition.csproj", "{072E1225-7DA9-4B78-B9EC-6B9B9600CA11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestArithmeticSubsequence", "LongestArithmeticSubsequence\LongestArithmeticSubsequence.csproj", "{FB942E71-45C0-4640-AE1A-8957FB0F24B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -906,5 +908,9 @@ Global
 		{072E1225-7DA9-4B78-B9EC-6B9B9600CA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{072E1225-7DA9-4B78-B9EC-6B9B9600CA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{072E1225-7DA9-4B78-B9EC-6B9B9600CA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
