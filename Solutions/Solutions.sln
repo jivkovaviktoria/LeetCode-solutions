@@ -302,6 +302,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheValueOfThePartition"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestArithmeticSubsequence", "LongestArithmeticSubsequence\LongestArithmeticSubsequence.csproj", "{FB942E71-45C0-4640-AE1A-8957FB0F24B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparateBlackAndWhiteBalls", "SeparateBlackAndWhiteBalls\SeparateBlackAndWhiteBalls.csproj", "{475AA149-2790-4CA9-B45E-F94001E94B95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -912,5 +914,9 @@ Global
 		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB942E71-45C0-4640-AE1A-8957FB0F24B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475AA149-2790-4CA9-B45E-F94001E94B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475AA149-2790-4CA9-B45E-F94001E94B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475AA149-2790-4CA9-B45E-F94001E94B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475AA149-2790-4CA9-B45E-F94001E94B95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
