@@ -304,6 +304,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestArithmeticSubsequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeparateBlackAndWhiteBalls", "SeparateBlackAndWhiteBalls\SeparateBlackAndWhiteBalls.csproj", "{475AA149-2790-4CA9-B45E-F94001E94B95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSmallestGreatestThanTarget", "FindSmallestGreatestThanTarget\FindSmallestGreatestThanTarget.csproj", "{AD68B703-C799-4D39-BEAE-8D98A0771E23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -918,5 +920,9 @@ Global
 		{475AA149-2790-4CA9-B45E-F94001E94B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475AA149-2790-4CA9-B45E-F94001E94B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475AA149-2790-4CA9-B45E-F94001E94B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD68B703-C799-4D39-BEAE-8D98A0771E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD68B703-C799-4D39-BEAE-8D98A0771E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD68B703-C799-4D39-BEAE-8D98A0771E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD68B703-C799-4D39-BEAE-8D98A0771E23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
